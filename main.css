@@ -37,7 +37,9 @@ nav ul li > a {
     text-decoration: none;
 }
 nav ul li > a:hover {
-    background-color: #111;
+    background-color: green;
+    color: white;
+    text-decoration: none;
 }
 img.center {
     display: block;
